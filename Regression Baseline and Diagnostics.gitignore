@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local datasets
+data/
+DB1_B/
+DB2_B/
+*.zip
+*.tif
+*.tiff
+
+# Temporary outputs
+*.tmp
+.DS_Store
